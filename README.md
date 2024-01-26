@@ -18,3 +18,20 @@ You can access the live demo of my to-do list website here: (still struggling to
 ## Screenshots
 
 
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Contributing
+
+If you'd like to contribute to the project, please follow these steps: 
+
+1. Fork the repo.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
+
+## Issues
+
+If you find any issues or have suggestions, please open an issue on GitHib.
