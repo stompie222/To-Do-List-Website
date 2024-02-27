@@ -6,7 +6,7 @@ This repository contains the source code for my simple to-do list website. The a
 
 ## Live Demo  
 
-You can access the live demo of my to-do list website here: (still struggling to host it online so others can access it remotely, any help is appreciated )
+You can access the live demo of my to-do list website here: https://stompie222.github.io/To-Do-List-Website/
 
 ## Features
 
